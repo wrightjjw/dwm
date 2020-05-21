@@ -5,6 +5,7 @@ thank you for coming to my ted talk
 
 ## Patches
 - [autostart-20161205](https://dwm.suckless.org/patches/autostart/)
+- [vanitygaps-6.2](https://dwm.suckless.org/patches/vanitygaps/)
 
 ## Original Suckless Readme
 

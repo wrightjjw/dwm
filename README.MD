@@ -1,5 +1,6 @@
 # dwm
 Hello I am Josh Wright and this is my fork of suckless dwm,
+see the OG at https://dwm.suckless.org,
 thank you for coming to my ted talk
 
 ## Original Suckless Readme

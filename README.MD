@@ -3,6 +3,9 @@ Hello I am Josh Wright and this is my fork of suckless dwm,
 see the OG at https://dwm.suckless.org,
 thank you for coming to my ted talk
 
+## Patches
+- [fullgaps-6.2](https://dwm.suckless.org/patches/fullgaps/)
+
 ## Original Suckless Readme
 
 ```

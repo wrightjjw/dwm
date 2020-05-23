@@ -3,6 +3,10 @@ Hello I am Josh Wright and this is my fork of suckless dwm,
 see the OG at https://dwm.suckless.org,
 thank you for coming to my ted talk
 
+## Keybinds
+- Alt is Super
+- Super+Shift+B for Brave
+
 ## Patches
 - [autostart-20161205](https://dwm.suckless.org/patches/autostart/)
 - [vanitygaps-6.2](https://dwm.suckless.org/patches/vanitygaps/)

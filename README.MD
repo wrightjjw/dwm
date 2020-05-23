@@ -5,7 +5,8 @@ thank you for coming to my ted talk
 
 ## Keybinds
 - Alt is Super
-- Super+Shift+B for Brave
+- Super+B for Brave
+- Super+Shift+B for bar toggle
 
 ## Patches
 - [autostart-20161205](https://dwm.suckless.org/patches/autostart/)

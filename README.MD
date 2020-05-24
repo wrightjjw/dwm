@@ -5,7 +5,7 @@ thank you for coming to my ted talk
 
 ## Keybinds
 - Alt is Super
-- Super+B for Brave
+- Super+B for Browser ($BROWSER env var)
 - Super+Shift+B for bar toggle
 
 ## Patches

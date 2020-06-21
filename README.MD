@@ -4,13 +4,19 @@ see the OG at https://dwm.suckless.org,
 thank you for coming to my ted talk
 
 ## Keybinds
-- Alt is Super
+- Alt in OG dwm is Super now
+- Super+Enter for terminal (st)
+- Super+Space for reorder master
+- Super+Shift+Enter for toggle float
+- Super+Q to quit window
 - Super+B for Browser ($BROWSER env var)
+- Super+E for Editor ($EDITOR env var)
 - Super+Shift+B for bar toggle
 
 ## Patches
 - [autostart-20161205](https://dwm.suckless.org/patches/autostart/)
-- [vanitygaps-6.2](https://dwm.suckless.org/patches/vanitygaps/)
+- [fullgaps-6.2](https://dwm.suckless.org/patches/fullgaps/)
+- [swallow-20200522](https://dwm.suckless.org/patches/swallow/)
 
 ## Original Suckless Readme
 

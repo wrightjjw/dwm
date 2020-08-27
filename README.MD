@@ -18,6 +18,11 @@ thank you for coming to my ted talk
 - [fullgaps-6.2](https://dwm.suckless.org/patches/fullgaps/)
 - [swallow-20200522](https://dwm.suckless.org/patches/swallow/)
 
+## Enhancements
+I use `picom` as a compositor and `feh --bg-fill` to display desktop backgrounds.
+I'm also a pretty big fan of feh's randomize option and using it on a folder.
+My background images can be found in my [dotfiles](https://github.com/wrightjjw/dotfiles) repository.
+
 ## Original Suckless Readme
 
 ```

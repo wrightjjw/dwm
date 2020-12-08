@@ -3,6 +3,9 @@ Hello I am Josh Wright and this is my fork of suckless dwm,
 see the OG at https://dwm.suckless.org,
 thank you for coming to my ted talk
 
+If you're Arch-based, you can install from the AUR
+as [dwm-wrightjjw-git](https://aur.archlinux.org/packages/dwm-wrightjjw-git/)
+
 ## Keybinds
 - Alt in OG dwm is Super now
 - Super+Enter for terminal (st)

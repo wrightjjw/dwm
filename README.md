@@ -21,6 +21,7 @@ as [dwm-wrightjjw-git](https://aur.archlinux.org/packages/dwm-wrightjjw-git/)
 - [autostart-20161205](https://dwm.suckless.org/patches/autostart/)
 - [fullgaps-6.2](https://dwm.suckless.org/patches/fullgaps/)
 - [swallow-20200522](https://dwm.suckless.org/patches/swallow/)
+- [systray-20200914](https://dwm.suckless.org/patches/systray/)
 
 ## Original Suckless Readme
 

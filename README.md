@@ -14,6 +14,7 @@ as [dwm-wrightjjw-git](https://aur.archlinux.org/packages/dwm-wrightjjw-git/)
 - Super+Q to quit window
 - Super+B for Browser ($BROWSER env var)
 - Super+E for Editor ($EDITOR env var)
+- Super+R for Runner (dmenu_run)
 - Super+Shift+B for bar toggle
 
 ## Patches

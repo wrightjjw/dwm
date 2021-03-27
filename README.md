@@ -14,12 +14,14 @@ as [dwm-wrightjjw-git](https://aur.archlinux.org/packages/dwm-wrightjjw-git/)
 - Super+Q to quit window
 - Super+B for Browser ($BROWSER env var)
 - Super+E for Editor ($EDITOR env var)
+- Super+R for Runner (dmenu_run)
 - Super+Shift+B for bar toggle
 
 ## Patches
 - [autostart-20161205](https://dwm.suckless.org/patches/autostart/)
 - [fullgaps-6.2](https://dwm.suckless.org/patches/fullgaps/)
 - [swallow-20200522](https://dwm.suckless.org/patches/swallow/)
+- [systray-20200914](https://dwm.suckless.org/patches/systray/)
 
 ## Original Suckless Readme
 

@@ -116,6 +116,7 @@ static Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
 	{ MODKEY|ShiftMask,				XK_l,		spawn,			SHCMD("slock") },
+	{ MODKEY|ShiftMask,				XK_a,		spawn,			SHCMD("swap-audio -n") },
 	{ 0, XF86XK_AudioPlay,						spawn,			SHCMD("playerctl play-pause") },
 	{ 0, XF86XK_AudioNext,						spawn,			SHCMD("playerctl next") },
 	{ 0, XF86XK_AudioPrev,						spawn,			SHCMD("playerctl previous") },
@@ -124,6 +125,7 @@ static Key keys[] = {
 	{ 0, XF86XK_AudioLowerVolume,	spawn,		SHCMD("pamixer --allow-boost -d 5 && kill $(pidof dwmblocks)") },
     { 0, XF86XK_MonBrightnessUp,    spawn,      SHCMD("xbacklight -inc 5") },
     { 0, XF86XK_MonBrightnessDown,  spawn,      SHCMD("xbacklight -dec 5") },
+	{ 0, XK_Print,					spawn,		SHCMD("flameshot gui") },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
 	TAGKEYS(                        XK_3,                      2)
